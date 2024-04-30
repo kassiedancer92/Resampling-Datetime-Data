@@ -1,4 +1,4 @@
-# Re-sampling Datetime Data
+# Resampling Datetime Data
 
 #### Viz 1:
 
